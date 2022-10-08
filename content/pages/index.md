@@ -1,8 +1,8 @@
 ---
 template: "index-template"
-title: "Gatsby Starter Glass"
+title: "Rahuls Blog"
 ---
 
-# Hello World
+# Hey, welcome to my blog
 
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+This where I write about stuff.
